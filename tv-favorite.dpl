@@ -1,0 +1,43 @@
+﻿DAUMPLAYLIST
+playname=https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+playtime=280241
+topindex=2
+saveplaypos=0
+1*file*http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8?zgangd
+1*title*凤凰资讯
+2*file*http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+2*title*民视新闻台
+3*file*http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
+3*title*台视新闻台
+4*file*http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+4*title*台视新闻
+5*file*http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+5*title*TVBS新闻台
+6*file*https://bc20d7c2a7b14dd0ae827a2e3eb99116.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_Bloomberg/playlist.m3u8
+6*title*Bloomberg TV+ UHD (2160p)
+7*file*https://bloomberg-bloomberg-1-eu.rakuten.wurl.tv/playlist.m3u8
+7*title*Bloomberg TV (1080p)
+8*file*https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
+8*title*CBC News (720p)
+9*file*https://csm-e-eb.csm.tubi.video/csm/live/243017997.m3u8
+9*title*CBC News Highlights (720p)
+10*file*https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8
+10*title*CTV (720p)
+11*file*https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KTVU-Monetizer.m3u8
+11*title*FOX 2 San Francisco CA (KTVU) (720p)
+12*file*https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WFLD-Monetizer.m3u8
+12*title*FOX 32 Chicago IL (WFLD) (720p)
+13*file*https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+13*title*Fashion TV UHD (2160p)
+14*file*https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
+14*title*Fashion TV (1080p)
+15*file*https://fash1043.cloudycdn.services/slive/ftv_ftv_pg13_zw9_27065_ftv_pg13_sam_197_hls.smil/playlist.m3u8
+15*title*Fashion TV Tokyo (PG13) (1080p)
+16*file*https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+16*title*DW English (1080p)
+17*file*https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
+17*title*Love Nature 4K
+18*file*https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+18*title*NHK World Japan (1080p)
+19*file*https://rfichinois96k.ice.infomaniak.ch/rfichinois-96k.mp3
+19*title*rfi replay chinois 2 
